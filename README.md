@@ -1,1 +1,1 @@
-# This is a Theme For Cchurch
+# This is a Theme For a church
