@@ -1,0 +1,162 @@
+header .navbar {
+	 padding:20px;
+}
+
+header .navbar-brand h3{
+	 font-size:25px;
+}
+
+.latest_sermons{
+	 padding:40px 0;
+}
+
+ .title_border{
+	 width:100px;
+	 border: 2px solid #f5ab35;
+	 margin: 0 auto;
+}
+
+.video_sermons {
+	  margin-top:20px;
+}
+
+.video_desc h3{
+	 font-size:25px;
+	 margin-top:10px;
+	 text-align:center;
+}
+
+.video_desc p{
+	  text-align:center;
+	  font-size:20px;
+} 
+
+.video_desc .fa-quote-left{
+	  padding-right:10px;
+}
+.video_desc .fa-quote-right{
+	padding-left: 10px;
+}
+
+.about-church{
+	padding:40px 0;
+	background:#ececec;
+}
+
+.about-church h3{
+	 font-size:25px;
+     padding:10px 0;
+}
+.about-church h4{
+	color: #fcb941;
+	margin-bottom:10px;
+}
+.about-church p{
+	font-size:15px;
+}
+
+.about-church img{
+	 height:350px;
+}
+
+.about_border{
+	 border:2px solid #f5ab35;
+	 width:150px;
+	 margin-bottom:20px;
+}
+
+.about-church .fa-arrow-right{
+	color: #f5ab35;
+	transition: all 2s ease;
+}
+.about-church .fa-arrow-right:hover{
+	 transform: rotate(-90deg);
+}
+
+
+.about-church .btn{
+	  margin-top:30px;
+	  padding:15px 30px;
+	  border:2px solid #f5ab35;
+      color: #f5ab35;
+}
+
+
+.about-church .btn:hover{
+	  border:2px solid #f5ab35;
+	  background:#f5ab35;
+}
+
+.church-mission{
+	padding:40px 0;
+}
+
+.church-mission .fas{
+	 font-size:30px;
+	 margin-bottom:15px;
+	 color: #f5ab35;
+}
+
+
+.church-mission  .col-lg-6{
+	 margin-bottom:30px;
+}
+
+.church-mission h4{
+	font-size:20px;
+	margin-bottom:10px;
+}
+
+.church-recent{
+	 padding:40px 0;
+	 background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../img/bible.jpeg') center/cover no-repeat fixed;
+	 
+	 color:#fff;
+}
+
+.church-recent .title-recent{
+	 margin-bottom:30px;
+}
+
+.church-recent h4{
+	 margin-top:10px;
+}
+
+footer{
+	padding:40px 0;
+	background:#f5ab35;
+	color:white;
+}
+
+footer .fas{
+	 font-size:26px;
+	 margin-right:20px;
+}
+footer span{
+	font-size:18px;
+	text-transform: uppercase;
+}
+
+.footer-copyright{
+	 background:#000;
+	 color:#fff;
+	 padding:20px 0;
+}
+
+.social-icons .fab{
+	 font-size:30px;
+	 margin-right:20px;
+}
+.fa-facebook{
+	color: #EAEBEE;
+}
+.fa-twitter{
+	color: #79a5c3;
+}
+.fa-instagram{
+	color:#2D2D2D;
+}
+
+.fa-youtube{
+	color: #ff2500;
+}
